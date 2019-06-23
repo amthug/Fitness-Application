@@ -1,4 +1,4 @@
-package fitness.flipkart;
+package fitness;
 
 public class Program {
 

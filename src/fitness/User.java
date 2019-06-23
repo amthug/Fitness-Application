@@ -1,4 +1,4 @@
-package fitness.flipkart;
+package fitness;
 
 import java.util.List;
 
